@@ -22,7 +22,7 @@
     "@angular/router": "^6.1.0",
     "@okta/okta-angular": "^1.0.4",
     "core-js": "^2.5.4",
-    "lodash": "^4.17.11",
+    "lodash": "^4.17.21",
     "rxjs": "~6.2.0",
     "rxjs-compat": "^6.3.2",
     "zone.js": "~0.8.26"
